@@ -29,19 +29,22 @@ I'm a Computer Science BSc student in my 3rd semester at the Universidade Federa
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   </td>
  </tr>
+<tr></tr>
  <tr>
-  <td rowspan="2">
+  <td rowspan="3">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=eertlmontag&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile" />
   </td>
   <td colspan="2">
     <img src="https://github-readme-stats.vercel.app/api?username=ddeltree&show_icons=true&theme=shadow_green&bg_color=00000000&text_color=777777ff&hide_border=true" alt="Davi Alexandre's GitHub stats" />
   </td>
  </tr>
+ <tr></tr>
  <tr>
   <td colspan="3">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddeltree&layout=compact&theme=shadow_green&exclude_repo=cpt&hide_border=true&text_color=777777ff&bg_color=00000000" alt="top languages used"/>
   </td>
  </tr>
+ <tr></tr>
  <tr>
   <th>📚 Learning</th>
   <td align="center" colspan="2">

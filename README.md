@@ -1,6 +1,6 @@
 # Hi, I'm Davi 👋🏻
 
-I'm a Computer Science BSc student in my 3rd semester at the Universidade Federal de Alagoas (UFAL) based in Brazil 🇧🇷. My career goal is to become a DevOps engineer, a full-stack developer, and an active open-source contributor.
+I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL) based in Brazil 🇧🇷. My career goal is to become a DevOps engineer, a full-stack developer, and an active open-source contributor.
 
 ### ⚒️ What I'm working on 
 

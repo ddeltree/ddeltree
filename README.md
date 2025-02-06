@@ -17,17 +17,17 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
  <tr>
   <th>🛠️ Using</th>
   <td align="center" colspan="2">
-   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+   <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="32" alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="32" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=electron" height="32" alt="electron logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
   </td>
  </tr>
 <tr></tr>
@@ -49,8 +49,8 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
  <tr>
   <th>📚 Learning</th>
   <td align="center" colspan="2">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
   </td>
  </tr>
 </table>

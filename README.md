@@ -26,6 +26,7 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   </td>
  </tr>
@@ -50,7 +51,6 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
   <td align="center" colspan="2">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   </td>
  </tr>
 </table>

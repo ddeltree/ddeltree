@@ -33,7 +33,9 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
 <tr></tr>
  <tr>
   <td rowspan="3">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=eertlmontag&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true" alt="spotify-github-profile" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=eertlmontag&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=eertlmontag&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=true" alt="spotify-github-profile" />
+</a>
   </td>
   <td colspan="2">
     <img src="https://github-readme-stats.vercel.app/api?username=ddeltree&show_icons=true&theme=shadow_green&bg_color=00000000&text_color=777777ff&hide_border=true" alt="Davi Alexandre's GitHub stats" />

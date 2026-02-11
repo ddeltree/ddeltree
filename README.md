@@ -12,7 +12,7 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
 
 ###
 
-<table>
+<table align="center">
 </tr>
  <tr>
   <th>🛠️ Using</th>

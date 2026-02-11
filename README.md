@@ -12,11 +12,11 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
 
 ###
 
-<table align="right">
+<table>
 </tr>
  <tr>
   <th>🛠️ Using</th>
-  <td align="center" colspan="4">
+  <td align="center">
    <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
@@ -50,7 +50,7 @@ I'm a Computer Science BSc student at the Universidade Federal de Alagoas (UFAL)
  <tr></tr> -->
  <tr>
   <th>📚 Learning</th>
-  <td align="center" colspan="4">
+  <td align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
   </td>
